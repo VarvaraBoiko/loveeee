@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(244, 39, 114);
+    display: flex;
+    justify-content: center;
+ }
+ footer{
+    background-color: rgb(244, 39, 114);
+    display: flex;
+    justify-content: center
+ }
+ .nav-list{
+    display: flex;
+    gap: 50px;
+ }
+.div2{
+ margin-left: 43%;
+}
+ul{
+    list-style: none;
+}
+.here{
+    list-style: circle;
+}
+.play{
+    display: flex;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    gap: 20px;
+ }
+ .parts{
+    display: flex;
+    flex-direction: row;
+    gap: 250px;
+ }
+ .nav-list-link{
+   color: rgb(255, 255, 255);
+ }
+ .boximg{
+   display: flex;
+   justify-content: center;
+   margin-top: 10px;
+ }
+ .giftp{
+   display: flex;
+   margin-top: 2%;
+   margin-bottom: 2%;
+   gap: 20px;
+}
